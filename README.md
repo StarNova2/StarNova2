@@ -2,7 +2,7 @@
 
 This is my public profile
 
-[See my Portfolio here](starnova2.github.io/)
+[See my Portfolio here](https://starnova2.github.io)
 
 ---
 
