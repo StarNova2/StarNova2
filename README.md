@@ -23,6 +23,6 @@ Coding language knowledge:
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tanguy-collet/" target="_blank">
-    ![LinkedIn_logo]("https://delivery-p143253-e1476319.adobeaemcloud.com/adobe/assets/urn:aaid:aem:a071d2de-9e41-40a6-ab79-2947c6da57c2/original/as/brandg-business-in-logo-dsk-v03-2x.png" "LinkedIn_logo)
+    <img src="https://delivery-p143253-e1476319.adobeaemcloud.com/adobe/assets/urn:aaid:aem:a071d2de-9e41-40a6-ab79-2947c6da57c2/original/as/brandg-business-in-logo-dsk-v03-2x.png" alt="LinkedIn" />
   </a>
 </div>
