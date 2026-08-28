@@ -26,5 +26,7 @@ Coding language knowledge:
     <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png"
       alt="linkedin"/>
   </a>
-  <a href="mailto:tanguy.colt@gmail.com" target="_blank">Send me an Email</a>
+  <a href="mailto:tanguy.colt@gmail.com" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/pulsar-line/48/mail.png" alt="Send me an Email"/>
+  </a>
 </div>
