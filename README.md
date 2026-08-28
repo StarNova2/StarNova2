@@ -20,7 +20,7 @@ Programming language knowledge:
 
 Tools and environments:
 - VSCode <a href="https://code.visualstudio.com/docs"><img width="24" height="24" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-logo"/></a>
-- git
+- git <a href="https://git-scm.com/docs"><img width="24" height="24" src="https://img.icons8.com/color/48/git.png" alt="git"/></a>
 
 ---
 
@@ -31,7 +31,7 @@ Tools and environments:
     <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png"
       alt="linkedin"/>
   </a>
-     
+            
   <a href="mailto:tanguy.colt@gmail.com">
     <img width="48" height="48" src="https://img.icons8.com/pulsar-line/48/mail.png" alt="Send me an Email"/>
   </a>
