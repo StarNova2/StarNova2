@@ -21,6 +21,8 @@ Programming language knowledge:
 Tools and environments:
 - VSCode <a href="https://code.visualstudio.com/docs"><img width="24" height="24" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-logo"/></a>
 - git <a href="https://git-scm.com/docs"><img width="24" height="24" src="https://img.icons8.com/color/48/git.png" alt="git"/></a>
+- unity <a href="https://docs.unity.com/en-us"><img width="24" height="24" src="https://img.icons8.com/ios-filled/50/unity.png" alt="unity"/></a>
+- godot <a href="https://docs.godotengine.org/en/stable/"><img width="24" height="24" src="https://img.icons8.com/nolan/64/godot.png" alt="godot"/></a>
 
 ---
 
