@@ -10,7 +10,7 @@ Work-study at <a href="https://www.esgi.fr">ESGI Paris</a> in <a href="https://w
 [See my Portfolio here](https://starnova2.github.io)
 
 ---
-
+```
 Programming language knowledge:
 - Python   <a href="https://docs.python.org/3/"><img width="24" height="24" src="https://img.icons8.com/color/48/python--v1.png" alt="python-programming"/></a>
 - C / C++   <a href="https://devdocs.io/c/">  <img width="24" height="24" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/></a>   <a href="https://devdocs.io/cpp/"><img width="24" height="24" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-programming"/></a>
@@ -23,7 +23,7 @@ Tools and environments:
 - git <a href="https://git-scm.com/docs"><img width="24" height="24" src="https://img.icons8.com/color/48/git.png" alt="git"/></a>
 - unity <a href="https://docs.unity.com/en-us"><img width="24" height="24" src="https://img.icons8.com/ios-filled/50/unity.png" alt="unity"/></a>
 - godot <a href="https://docs.godotengine.org/en/stable/"><img width="24" height="24" src="https://img.icons8.com/nolan/64/godot.png" alt="godot"/></a>
-
+```
 ---
 
 ## Contact me
