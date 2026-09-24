@@ -17,6 +17,7 @@ Programming language knowledge:
 - C#   <a href="https://learn.microsoft.com/fr-fr/dotnet/csharp/"><img width="24" height="24" src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="c-sharp-programming"/></a>
 - Java   <a href="https://docs.oracle.com/en/java/"><img width="24" height="24" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-programming"/></a>
 - Rust   <a href="https://doc.rust-lang.org/stable/">  <img width="24" height="24" src="https://img.icons8.com/color/48/rust-programming-language.png" alt="rust-programming"/></a>
+- gdscript <a href="https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html"> docs </a>
 
 Tools and environments:
 - VSCode <a href="https://code.visualstudio.com/docs"><img width="24" height="24" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-logo"/></a>
