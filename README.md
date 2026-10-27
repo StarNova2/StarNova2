@@ -11,24 +11,11 @@ Work-study at <a href="https://www.esgi.fr">ESGI Paris</a> in <a href="https://w
 
 ---
 
-<table style="width:100%; border-collapse: collapse;">
-  <tr style="background-color: #f2f2f2;">
-    <th style="border: 1px solid #ddd; border-radius: 10px; padding: 8px;">En-tête 1</th>
-    <th style="border: 1px solid #ddd; border-radius: 10px; padding: 8px;">En-tête 2</th>
-  </tr>
-  <tr>
-    <td style="border: 1px solid #ddd; border-radius: 10px; padding: 8px;">Cellule A</td>
-    <td style="border: 1px solid #ddd; border-radius: 10px; padding: 8px;">Cellule B</td>
-  </tr>
-</table>
-
----
-
 <div align="center">
   
 Programming language knowledge:
 | Language | Docs | Mastery |
-| :------: | :--: | :-----: |
+| :------: | :--------------------------: | :-----: |
 | Python | <a href="https://docs.python.org/3/"><img width="24" height="24" src="https://img.icons8.com/color/48/python--v1.png" alt="python-programming"/></a>|
 | C / C++ | <a href="https://devdocs.io/c/">  <img width="24" height="24" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/></a>   <a href="https://devdocs.io/cpp/"><img width="24" height="24" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-programming"/></a>|
 | C# | <a href="https://learn.microsoft.com/fr-fr/dotnet/csharp/"><img width="24" height="24" src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="c-sharp-programming"/></a>|
