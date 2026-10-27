@@ -13,15 +13,17 @@ Work-study at <a href="https://www.esgi.fr">ESGI Paris</a> in <a href="https://w
 
 <table style="width:100%; border-collapse: collapse;">
   <tr style="background-color: #f2f2f2;">
-    <th style="border: 1px solid #ddd; padding: 8px;">En-tête 1</th>
-    <th style="border: 1px solid #ddd; padding: 8px;">En-tête 2</th>
+    <th style="border: 1px solid #ddd; border-radius: 10px; padding: 8px;">En-tête 1</th>
+    <th style="border: 1px solid #ddd; border-radius: 10px; padding: 8px;">En-tête 2</th>
   </tr>
   <tr>
-    <td style="border: 1px solid #ddd; padding: 8px;">Cellule A</td>
-    <td style="border: 1px solid #ddd; padding: 8px;">Cellule B</td>
+    <td style="border: 1px solid #ddd; border-radius: 10px; padding: 8px;">Cellule A</td>
+    <td style="border: 1px solid #ddd; border-radius: 10px; padding: 8px;">Cellule B</td>
   </tr>
 </table>
+
 ---
+
 <div align="center">
   
 Programming language knowledge:
