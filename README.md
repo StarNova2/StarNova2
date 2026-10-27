@@ -10,7 +10,8 @@ Work-study at <a href="https://www.esgi.fr">ESGI Paris</a> in <a href="https://w
 [See my Portfolio here](https://starnova2.github.io)
 
 ---
-
+<div align="center">
+  
 Programming language knowledge:
 | Language | Docs | Mastery |
 | :------: | :--: | :-----: |
@@ -26,6 +27,8 @@ Tools and environments:
 - git <a href="https://git-scm.com/docs"><img width="24" height="24" src="https://img.icons8.com/color/48/git.png" alt="git"/></a>
 - unity <a href="https://docs.unity.com/en-us"><img width="24" height="24" src="https://img.icons8.com/ios-filled/50/unity.png" alt="unity"/></a>
 - godot <a href="https://docs.godotengine.org/en/stable/"><img width="24" height="24" src="https://img.icons8.com/nolan/64/godot.png" alt="godot"/></a>
+
+</div>
 
 ---
 
